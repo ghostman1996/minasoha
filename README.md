@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Wedding Album](https://github.com/minasoha-testing-organization)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **Ruby**
 
 - 👯 I’m looking to collaborate on **React, Redux and Node projects**
 

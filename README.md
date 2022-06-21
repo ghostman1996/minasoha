@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minasoha&theme=onedark" alt="minasoha" /></a> </p>
 
-- 🔭 I’m currently working on [Wedding Album](https://github.com/minasoha-testing-organization)
+- 🔭 I’m currently working on my Portfolio (Stay tuned!)
 
 - 🌱 I’m currently learning **Angular, TypeScript, MongoDB, GraphQL, and much more!!**
 

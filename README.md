@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Portfolio (Stay tuned!)
 
-- 🌱 I’m currently learning **Angular, TypeScript, MongoDB, GraphQL, and much more!!**
+- 🌱 I’m currently learning **Python and Ruby**
 
 - 💬 Ask me about **react**
 
